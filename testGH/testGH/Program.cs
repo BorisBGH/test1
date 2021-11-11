@@ -7,6 +7,7 @@ namespace testGH
         static void Main(string[] args)
         {
             //test editing on github
+            //test is successful
             Console.WriteLine("Hello World!");
         }
     }
